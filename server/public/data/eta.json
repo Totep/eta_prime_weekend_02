@@ -105,6 +105,30 @@
             ]
         },
         {
+            "firstName": "Ashley",
+            "lastName": "Steele",
+            "favoriteFoods": [
+                  "stuff",
+                  "things",
+                  "food"
+            ],
+            "hotLineBling": false,
+            "favoriteMovies": [
+              {
+                  "movieName": "Sex & The City",
+                  "releaseYear": "2008"
+              },
+              {
+                  "movieName": "American Gangster",
+                  "releaseYear": "2007"
+              },
+              {
+                  "movieName": "Houseguest",
+                  "releaseYear": "1995"
+              }
+            ]
+        },
+        {
             "firstName": "Ben",
             "lastName": "Margis",
             "favoriteFoods": [
@@ -125,8 +149,8 @@
             ]
         },
         {
-            "firstName": "Greatest",
-            "lastName": "Ever",
+            "firstName": "Brandi",
+            "lastName": "Brown",
             "favoriteFoods": [
                 "mac and cheese",
                 "just cheese",
@@ -255,8 +279,8 @@
             ]
         },
         {
-            "firstName": "gwen",
-            "lastName": "paul",
+            "firstName": "Gwen",
+            "lastName": "Paul",
             "favoriteFoods": [
                 "steak",
                 "icecream",
@@ -477,7 +501,7 @@
                 "Mock Duck With Rice From Quang"
             ],
             "hotLineBline": true,
-            "favouriteMovies": [
+            "favoriteMovies": [
                 {
                     "movieName": "Wings Of Desire",
                     "releaseYear": 1987

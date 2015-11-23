@@ -1,0 +1,72 @@
+header, h1, h2, h3, h4, h5, div, .left, .center, .right, main, body, footer, ul, li {
+  margin: 0;
+	padding: 0;
+}
+
+header {
+  margin: 3% auto 3% auto;
+  width: 35%;
+  text-align: center;
+}
+h1 {
+  font-size:
+  36px;
+}
+main {
+  display: flex;
+}
+h2 {
+  padding-top: 10px;
+  border-bottom-style: ridge;
+  border-bottom-color: #2f4f4f;
+
+}
+h4 {
+  font-size: 20px;
+  margin: 3% auto 3% auto;
+  border-bottom-width: 35%;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  padding-bottom: 4%;
+}
+.prevStudent {
+  background-color: light-grey;
+  width: 20%;
+  float: left;
+  height: 400px;
+  margin: 4% auto 4% 4%;
+  text-align: center;
+  border-radius: 25px;
+  background-color: #D3D3D3;
+}
+.currentStudent {
+  width:30%;
+  margin: 4% 8% 4% 8%;
+  float: left;
+  height: 400px;
+  text-align: center;
+  border-radius: 25px;
+  background-color: #D3D3D3;
+}
+.nextStudent {
+  width: 20%;
+  float: left;
+  height: 400px;
+  margin: 4% auto 4% auto;
+  text-align: center;
+  border-radius: 25px;
+  background-color: #D3D3D3;
+}
+.left p {
+  padding: ;
+}
+.currentStudent p {
+  font-size: 20px;
+}
+.movies {
+  text-decoration: underline;
+}
+.movieList {
+  border: 3px solid black;
+  margin: 5px 5px 5px 5px;
+}
